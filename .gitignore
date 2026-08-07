@@ -1,0 +1,14 @@
+.env
+*.log
+
+backups/
+
+node_modules/
+
+.n8n/
+
+postgres_data/
+
+redis_data/
+
+qdrant_data/
