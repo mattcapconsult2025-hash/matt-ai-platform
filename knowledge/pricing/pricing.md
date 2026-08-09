@@ -1,472 +1,531 @@
-# Matt Capital Consult – Real Estate Consulting Knowledge Base
-Version: 1.0
-Last Updated: August 2026
+# Matt Capital Consult — Official Pricing
+
+## Pricing Policy
+
+# Currency and International Pricing
+
+## Official Base Currency
+
+Matt Capital Consult's official pricing is maintained in Nigerian Naira (₦).
+
+All service packages and internal pricing references should use Naira as the primary price.
+
+## Nigerian Clients
+
+For clients based in Nigeria, the AI should display prices in Nigerian Naira.
+
+Example:
+
+"Professional Website Package — ₦150,000"
+
+## International Clients
+
+For clients outside Nigeria, the AI should present the approximate equivalent price in US Dollars ($).
+
+The underlying official price remains the Naira price.
+
+Example:
+
+"Professional Website Package — approximately $___"
+
+The USD amount should be treated as an approximate equivalent and may change according to the applicable exchange rate.
+
+## Currency Conversion Rule
+
+The AI must not permanently assume that:
+
+₦150,000 = $150
+
+or that any other fixed Naira-to-Dollar relationship is permanent.
+
+When a current exchange rate is available through an approved currency conversion system, the AI may calculate the approximate USD equivalent.
+
+If a current exchange rate is not available, the AI should avoid presenting an exact USD conversion and should instead say:
+
+"Our official pricing is ₦150,000. For international clients, we can provide the current USD equivalent when preparing your quotation."
+
+## International Quotation
+
+For an international client, the final quotation should clearly show:
+
+- Original Naira reference price
+- Applicable USD equivalent
+- Any applicable transaction/payment fees
+- Final agreed amount
+
+The quotation issued by Matt Capital Consult is the final commercial reference.
+
+## Important Rule
+
+The AI must never alter the underlying Naira package price simply because the client is international.
+
+The currency changes; the approved service price does not.
 
 ---
 
-# Real Estate Consulting Services
+# Website Design Packages
 
-## Service Overview
+## Starter Website — ₦80,000
 
-Matt Capital Consult provides professional real estate consulting services that help individuals, investors, developers, businesses, institutions, and communities make informed property and real estate investment decisions.
+### Best for
 
-Our services combine market research, business strategy, project planning, digital marketing, technology, and investment advisory support to maximize the value of real estate projects.
+- Individuals
+- Freelancers
+- Startups
+- Small businesses
+- Professionals establishing their online presence
 
-We serve as strategic advisors throughout the property lifecycle—from concept development and feasibility analysis to marketing and digital transformation.
+### Includes
 
----
+- Professional responsive website
+- Up to 5 core pages
+- Mobile-friendly design
+- Contact form
+- Social media integration
+- Basic SEO setup
+- Basic security configuration
+- WhatsApp/contact integration
+- Basic website configuration
 
-# Mission
+### Recommended for
 
-To provide innovative, ethical, and practical real estate consulting solutions that support sustainable property development, investment success, and economic growth.
+Businesses that need a professional online presence without complex functionality.
 
----
+### Starting Price
 
-# Vision
+₦80,000
 
-To become one of Africa's leading real estate consulting firms, recognized for delivering strategic advisory services, digital innovation, and sustainable property development solutions.
+International reference price:
 
----
-
-# Our Consulting Philosophy
-
-Every real estate project should be based on:
-
-- Market research
-- Financial viability
-- Legal compliance
-- Sustainable development
-- Customer needs
-- Strategic planning
-- Technology adoption
-- Long-term value creation
-
-Our recommendations are guided by evidence, sound business principles, and the client's objectives.
+$60
 
 ---
 
-# Our Services
+# Professional Website — ₦150,000
 
-## Real Estate Investment Advisory
+### Best for
 
-We help clients evaluate property investment opportunities.
+- Growing businesses
+- Consultants
+- Service businesses
+- Coaches
+- SMEs
+- Organizations requiring a stronger online presence
 
-Services include:
+### Includes
 
-- Investment opportunity assessment
-- Market trend analysis
-- Investment strategy
-- Property portfolio planning
-- Risk identification
-- Investment feasibility support
-- Return-on-investment evaluation
+- Professional responsive website
+- Up to 10 pages
+- Customized design
+- Mobile optimization
+- Contact and inquiry forms
+- WhatsApp integration
+- Social media integration
+- Basic SEO setup
+- Google indexing setup
+- Security configuration
+- Performance optimization
+- Business-focused call-to-action sections
+- Basic analytics integration
 
-Investment decisions remain the responsibility of the client.
+### Recommended for
 
----
+Businesses that want their website to actively support marketing, lead generation and customer acquisition.
 
-## Property Development Consulting
+### Starting Price
 
-We support developers throughout the planning process.
+₦150,000
 
-Services include:
+International reference price:
 
-- Project concept development
-- Development strategy
-- Market positioning
-- Development planning
-- Land-use considerations
-- Product mix recommendations
-- Phased development planning
-
----
-
-## Feasibility Studies
-
-Professional assessments may include:
-
-- Market demand analysis
-- Location analysis
-- Competitor assessment
-- Financial feasibility
-- Risk assessment
-- SWOT analysis
-- Project viability evaluation
+$150
 
 ---
 
-## Property Marketing
+# Premium Website — ₦250,000
 
-We help property owners and developers attract qualified buyers and tenants.
+### Best for
 
-Services include:
+- Established businesses
+- Corporate organizations
+- Organizations requiring advanced functionality
+- Businesses requiring stronger lead-generation capabilities
+- Businesses requiring integrations
 
-- Marketing strategy
-- Digital marketing
-- Property branding
-- Website development
-- Social media campaigns
-- Content creation
-- Lead generation
-- Virtual property showcases
-- Marketing materials
+### Includes
 
----
+- Premium responsive website
+- Advanced customized design
+- Multiple website sections/pages
+- Advanced contact and inquiry forms
+- WhatsApp integration
+- Social media integration
+- SEO setup
+- Google indexing
+- Analytics integration
+- Security configuration
+- Performance optimization
+- Lead-generation features
+- Advanced business call-to-actions
+- Selected third-party integrations
+- Enhanced customization
 
-## Real Estate Digital Transformation
+### Recommended for
 
-We help property businesses modernize operations.
+Businesses that need a more advanced website designed to support marketing, sales and business growth.
 
-Solutions include:
+### Starting Price
 
-- Real estate websites
-- Online property listings
-- CRM implementation
-- AI customer assistants
-- Lead management automation
-- Digital document management
-- Property management workflows
-- Online appointment systems
+₦250,000
 
----
+International reference price:
 
-## Business Advisory for Real Estate Companies
-
-We assist agencies and developers with:
-
-- Business strategy
-- Operational improvement
-- Process optimization
-- Customer experience
-- Sales process improvement
-- Team productivity
-- Digital adoption
-- Growth planning
+$250
 
 ---
 
-## Market Research
+# E-Commerce Website
 
-Research services include:
+## Custom Quotation
 
-- Property market analysis
-- Demand forecasting
+E-commerce websites require a project assessment before a final price is provided.
+
+Potential features include:
+
+- WooCommerce
+- Product catalog
+- Shopping cart
+- Customer accounts
+- Online payment
+- Order management
+- Product categories
+- Product variations
+- Shipping configuration
+- Inventory management
+- Email notifications
+- Discount/coupon systems
+- Analytics
+- Marketing integrations
+
+Payment gateways may include available Nigerian payment solutions such as Paystack or Flutterwave, depending on the client's requirements.
+
+Final pricing depends on the number of products, required functionality, integrations and customization.
+
+---
+
+# Website Redesign
+
+## Custom Quotation
+
+Website redesign pricing depends on:
+
+- Existing website
+- Number of pages
+- New design requirements
+- Content migration
+- SEO preservation
+- Performance requirements
+- New functionality
+- Integrations
+
+The client should provide the existing website address for assessment where possible.
+
+---
+
+# Landing Page
+
+## Custom Quotation
+
+Landing-page pricing depends on:
+
+- Design complexity
+- Copywriting requirements
+- Lead-generation requirements
+- Forms
+- Payment integration
+- CRM integration
+- Analytics
+- Automation
+- Conversion optimization
+
+---
+
+# SEO Services
+
+## Custom Quotation
+
+SEO pricing depends on the scope of work.
+
+Services may include:
+
+- Keyword research
+- Technical SEO
+- On-page SEO
+- Local SEO
+- Content optimization
 - Competitor analysis
-- Pricing studies
-- Customer profiling
-- Market opportunity assessment
+- Search Console setup
+- Analytics setup
+- SEO reporting
+- Ongoing optimization
+
+Matt Capital Consult does not guarantee specific Google rankings.
 
 ---
 
-## Project Management Advisory
+# Digital Marketing
 
-Support may include:
+## Custom Quotation
 
-- Project planning
-- Timeline development
-- Stakeholder coordination
-- Progress monitoring
-- Risk identification
-- Reporting frameworks
+Digital marketing services may include:
 
-Where full project management services are required, the scope will be defined in the engagement agreement.
-
----
-
-# Real Estate Technology Solutions
-
-Matt Capital Consult integrates technology into modern property businesses.
-
-Solutions include:
-
-- Property websites
-- AI chatbots
-- CRM systems
+- Social media marketing
+- Content marketing
+- Lead generation
+- Campaign strategy
+- Advertising campaign management
+- Social media management
 - Marketing automation
-- Lead tracking
-- Customer portals
-- Online booking
-- Digital document systems
-- Analytics dashboards
+- Performance reporting
+
+Advertising/media spend is separate from professional service fees unless explicitly stated in a quotation.
 
 ---
 
-# Industries We Serve
+# AI Business Solutions
 
-Our real estate consulting services support:
+## Custom Quotation
 
-- Property developers
-- Real estate agencies
-- Estate management companies
-- Construction firms
-- Investment companies
-- Financial institutions
-- Hospitality businesses
-- Government agencies
-- NGOs
-- Private investors
-- Landowners
+AI solutions are assessed according to business requirements.
 
----
+Possible solutions include:
 
-# Typical Client Objectives
+- AI business assistants
+- AI customer-support agents
+- AI sales agents
+- AI knowledge bases
+- AI lead qualification
+- AI document processing
+- AI content systems
+- AI workflow integration
+- Custom AI applications
+- AI-powered business intelligence
 
-Clients commonly seek to:
+Pricing depends on:
 
-- Develop new estates
-- Market residential properties
-- Increase property sales
-- Improve lead generation
-- Evaluate investment opportunities
-- Digitize operations
-- Improve customer experience
-- Launch new developments
-- Expand into new markets
+- Complexity
+- Number of integrations
+- AI model requirements
+- Data requirements
+- Knowledge-base size
+- Automation requirements
+- Hosting requirements
+- Maintenance requirements
 
 ---
 
-# Common Client Challenges
+# Business Automation
 
-Businesses often face:
+## Custom Quotation
 
-- Slow property sales
-- Limited online visibility
-- Poor lead quality
-- Weak marketing
-- Inefficient customer follow-up
-- Manual processes
-- Lack of market intelligence
-- Difficulty evaluating investment opportunities
-- Limited digital systems
+Automation projects are assessed according to the workflows and systems involved.
 
----
+Possible automation services include:
 
-# Consulting Process
+- Lead capture automation
+- Lead qualification
+- Sales follow-up
+- CRM automation
+- Email automation
+- WhatsApp automation
+- Customer onboarding
+- Proposal automation
+- Quotation workflows
+- Reporting automation
+- AI-powered workflows
+- Business process automation
 
-## Phase 1 – Discovery
-
-Objectives:
-
-- Understand client goals.
-- Review project information.
-- Assess current challenges.
-- Define project scope.
-
-Deliverables:
-
-- Discovery summary
-- Initial assessment
+Pricing depends on the number and complexity of workflows and integrations.
 
 ---
 
-## Phase 2 – Research & Analysis
+# Corporate Training
 
-Activities:
+## Custom Quotation
 
-- Market research
-- Site analysis
-- Opportunity assessment
-- Risk evaluation
-- Competitor review
+Corporate training is customized according to:
 
-Deliverables:
+- Number of participants
+- Subject
+- Duration
+- Skill level
+- Delivery format
+- Training materials
+- Assessment requirements
+- Customization
 
-- Research report
-- Strategic recommendations
+Training may cover areas such as:
 
----
-
-## Phase 3 – Strategy Development
-
-Activities:
-
-- Development planning
-- Marketing strategy
-- Technology recommendations
-- Business planning
-
-Deliverables:
-
-- Strategic roadmap
-- Implementation plan
+- Digital literacy
+- Microsoft Office
+- Data analysis
+- Website design
+- WordPress
+- SEO
+- Digital marketing
+- AI tools
+- Business technology
 
 ---
 
-## Phase 4 – Implementation Support
+# Real Estate Consulting
 
-Depending on the engagement, support may include:
+## Custom Quotation
 
-- Website development
-- Marketing implementation
-- AI deployment
-- CRM configuration
-- Process improvement
-- Staff training
+Real estate consulting pricing depends on the nature and scope of the engagement.
 
----
+Services may include:
 
-## Phase 5 – Review & Improvement
+- Real estate consulting
+- Property marketing
+- Property promotion
+- Property sourcing
+- Real estate digital marketing
+- Lead generation
+- Real estate website development
+- Property listing solutions
+- Investment-related consulting
 
-Activities:
-
-- Performance review
-- KPI monitoring
-- Continuous improvement recommendations
-
----
-
-# Discovery Questions for AI Agents
-
-Before recommending real estate consulting services, ask:
-
-1. Are you an individual investor, developer, agency, or organization?
-2. What type of property is involved?
-3. What are your primary objectives?
-4. Is this a new or existing project?
-5. Which location is the project in?
-6. What stage has the project reached?
-7. What challenges are you experiencing?
-8. Do you currently market your properties online?
-9. Do you require technology solutions such as a website or CRM?
-10. What is your expected timeline?
-11. What is your estimated project budget?
+The AI must never invent property prices, availability, ownership information, title status or legal claims.
 
 ---
 
-# Recommended Services
+# Additional Services
 
-| Client Need | Recommended Service |
-|-------------|---------------------|
-| Evaluate investment | Real Estate Investment Advisory |
-| Launch a housing estate | Property Development Consulting |
-| Improve property sales | Property Marketing |
-| Build an online presence | Real Estate Website Development |
-| Automate enquiries | AI Customer Assistant |
-| Improve operations | Business Advisory |
-| Understand the market | Market Research |
-| Assess project viability | Feasibility Study |
+Services not covered by fixed packages require assessment and quotation.
 
----
+Examples include:
 
-# Deliverables
-
-Depending on the engagement, deliverables may include:
-
-- Market Research Report
-- Feasibility Study
-- Investment Assessment
-- Marketing Strategy
-- Development Roadmap
-- Business Strategy
-- Website
-- CRM Configuration
-- AI Assistant
-- Digital Marketing Plan
-- Executive Presentation
-
----
-
-# Frequently Asked Questions
-
-## Do you sell land or buildings directly?
-
-Matt Capital Consult primarily provides consulting, advisory, marketing, and digital solutions. Where property sales are involved, we operate within applicable laws and may collaborate with licensed real estate professionals when required.
-
----
-
-## Can you help market my estate?
-
-Yes. We develop marketing strategies, create digital assets, build property websites, and implement campaigns to attract qualified enquiries.
-
----
-
-## Can you build a website for my real estate business?
-
-Yes. We design modern real estate websites with features such as property listings, search filters, enquiry forms, maps, and customer contact tools.
-
----
-
-## Can AI help my real estate business?
-
-Yes. AI can assist with lead qualification, answering customer questions, scheduling viewings, knowledge management, and automating routine tasks.
-
----
-
-## Do you guarantee property sales or investment returns?
-
-No. Property sales and investment performance depend on market conditions, pricing, financing, location, competition, and many other factors. We provide professional guidance and implementation support but do not guarantee specific financial outcomes.
-
----
-
-# AI Agent Guidelines
-
-When discussing real estate services:
-
-- Understand the client's goals before recommending solutions.
-- Focus on practical business outcomes.
-- Explain technical concepts in simple language.
-- Avoid giving legal advice, land title opinions, tax advice, or formal property valuations unless handled by appropriately qualified professionals.
-- Avoid guaranteeing investment returns, appreciation, or sales.
-- Recommend consultations for complex development or investment projects.
-- Escalate legal, regulatory, valuation, surveying, or conveyancing matters to licensed professionals.
-
----
-
-# Cross-Selling Opportunities
-
-Real estate consulting often leads to additional services such as:
-
-- Business Consulting
-- Website Design
-- Digital Marketing
-- Search Engine Optimization (SEO)
-- AI Customer Support
-- CRM Implementation
+- Website maintenance
+- Website hosting
+- Domain registration
 - Branding
-- Data Analytics & Dashboards
-- Corporate Training
-- Business Process Automation
-
-Recommend these services only where they support the client's objectives.
-
----
-
-# Success Metrics
-
-Real estate consulting engagements may be evaluated using:
-
-- Number of qualified enquiries
-- Property sales or lease enquiries
-- Website traffic
-- Lead conversion rate
-- Customer response time
-- Marketing campaign performance
-- Project milestone completion
-- Client satisfaction
-- Operational efficiency improvements
-
-Success metrics should be agreed upon at the beginning of each engagement.
+- Logo design
+- Advanced integrations
+- Custom software
+- API integrations
+- CRM implementation
+- Advanced automation
+- Enterprise solutions
 
 ---
 
-# Ethical Principles
+# Pricing Range
 
-Matt Capital Consult is committed to:
+Matt Capital Consult services generally fall within a broad range of approximately:
 
-- Transparency
-- Professional integrity
-- Responsible investment guidance
-- Evidence-based recommendations
-- Respect for client confidentiality
-- Compliance with applicable laws and regulations
-- Sustainable development practices
+₦80,000 – ₦550,000+
+
+International reference:
+
+$60 – $550+
+
+This is a general service range and does not replace the specific package prices listed above.
 
 ---
 
-# Brand Promise
+# Currency
 
-Matt Capital Consult helps investors, developers, agencies, and organizations make informed real estate decisions through strategic consulting, technology, digital marketing, and responsible business advisory services.
+Primary currency:
 
-We combine business expertise with innovation to help clients maximize opportunities while managing risk.
+Nigerian Naira (₦)
 
-**Building Businesses. Developing People. Creating Wealth.**
+International reference currency:
+
+US Dollar ($)
+
+USD prices are reference prices and may vary depending on the project, exchange-rate conditions, payment method and final scope.
+
+---
+
+# Quotation Rules
+
+The AI Sales Consultant must distinguish between:
+
+- Published package price
+- Starting price
+- Estimated price
+- Custom quotation
+
+A published package price can be communicated directly.
+
+A custom service must not receive an invented price.
+
+---
+
+# Discount Policy
+
+The AI must not create or promise a discount.
+
+If a client asks:
+
+"Can you reduce the price?"
+
+The AI should respond:
+
+"Pricing depends on the scope and requirements. I can help identify the essential features and determine whether a more suitable package would meet your needs."
+
+Any special discount must be approved by Matt Capital Consult management.
+
+---
+
+# Payment Terms
+
+The AI must not invent payment terms.
+
+Payment arrangements should follow the official quotation, invoice or agreement issued by Matt Capital Consult.
+
+---
+
+# Price Change Policy
+
+Prices may be reviewed or changed by Matt Capital Consult.
+
+The AI should treat this document as the current approved pricing reference and should not claim that prices are permanently fixed.
+
+---
+
+# Recommended Pricing Response
+
+When a customer asks:
+
+"How much is your website?"
+
+The AI may respond:
+
+"Our website packages currently start at ₦80,000 for the Starter package, ₦150,000 for the Professional package, and ₦250,000 for the Premium package. If you tell me what type of website you need and the features you want, I can help you identify the most suitable package."
+
+When a customer asks for an e-commerce website:
+
+"E-commerce websites are quoted based on the required features, products, payment integration and other functionality. If you tell me what you want the store to do, I can help gather the requirements for a quotation."
+
+When a customer asks about AI:
+
+"Our AI Business Solutions are customized to the business requirement. We can build solutions such as AI assistants, knowledge bases, AI sales agents and business automation. The final price depends on the scope and integrations required."
+
+---
+
+# AI Sales Rules
+
+The Matt AI Sales Consultant must:
+
+1. Use approved prices only.
+2. Never invent a price.
+3. Never invent a discount.
+4. Never promise a payment plan.
+5. Never guarantee business results.
+6. Never guarantee Google rankings.
+7. Ask discovery questions when scope is unclear.
+8. Recommend the most appropriate package based on requirements.
+9. Recommend a custom quotation for complex projects.
+10. Escalate major commercial negotiations to a human representative.
